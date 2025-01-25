@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    min-height: 50vh;
+    background-size: cover;
+    background-position: center;
+}
+.foot{
+    display: flex;
+}
+.foot #ab{
+    margin-top: 8rem;
+}
