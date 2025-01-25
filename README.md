@@ -16,4 +16,4 @@ BesnikApp is a lightweight, responsive, and user-friendly web application. Built
 ## How to Use
 1. Clone the repository:  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Janvi1211/BesnikApp
